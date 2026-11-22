@@ -1,7 +1,14 @@
-# My AI Engineer Journey
-Goal: become an AI engineer.
-Current phase: Phase 1 — Python foundations
+# AI Engineer Journey
 
-| Date | What I learned |
-|------|----------------|
-| 22 Nov 2026 | Set up Python, VS Code, Git, GitHub, Colab, Kaggle, Hugging Face |
+My path to becoming an AI engineer: Python, machine learning and LLM applications.
+
+## Progress
+- [ ] Phase 1 — Python foundations (CS50P)
+- [ ] Phase 2 — Data skills and math
+- [ ] Phase 3 — Machine learning
+- [ ] Phase 4 — Deep learning and LLMs
+- [ ] Phase 5 — Building AI applications
+- [ ] Phase 6 — Deployment
+
+## Folders
+- `cs50p/` — solutions to CS50P problems
