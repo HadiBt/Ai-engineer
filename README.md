@@ -10,5 +10,3 @@ My path to becoming an AI engineer: Python, machine learning and LLM application
 - [ ] Phase 5 — Building AI applications
 - [ ] Phase 6 — Deployment
 
-## Folders
-- `cs50p/` — solutions to CS50P problems
